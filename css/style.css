@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+	background-color: black;
+	text-align: center;
+}
+
+h1, h2 {
+	color:whitesmoke;
+}
+
+p {
+	color:gray;
+}
+
+a {
+	color:aquamarine;
+}
